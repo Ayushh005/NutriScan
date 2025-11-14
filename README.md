@@ -698,18 +698,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👨‍💻 Author
-
-Developed by **DAlgoSculptor**
-
----
-
 ## 📞 Contact & Support
 
 For bugs, feature requests, or questions:
-- 📧 Email: [Your contact email]
-- 🐛 Issues: [GitHub Issues Link]
-- 💬 Discussions: [GitHub Discussions Link]
+- 📧 Email: ayushofficial2323@gmail.com
 
 ---
 
